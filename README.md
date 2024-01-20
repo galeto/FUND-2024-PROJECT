@@ -16,6 +16,8 @@ git checkout main  - отиваме на main branch
 
 git checkout firstbranch - отиваме на локално създадения бранч
 
+test
+
 
 
 
