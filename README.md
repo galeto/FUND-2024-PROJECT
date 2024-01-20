@@ -1,5 +1,5 @@
 # FUND-2024-PROJECT
-git clone https://github.com/galeto/FUND-2024-PROJECT.git - как да клонираме от мастъра и да създадем локален бранч
+git clone https://github.com/galeto/FUND-2024-PROJECT.git - как да клонираме master branch на локалната машина
 
 git status - показва кои файлове са променени
 
