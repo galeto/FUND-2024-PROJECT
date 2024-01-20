@@ -15,3 +15,5 @@ git checkout -b"firstbranch" - думата checkout означава преме
 git checkout main  - отиваме на main branch
 
 git checkout firstbranch - отиваме на локално създадения бранч
+
+
