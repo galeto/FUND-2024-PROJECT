@@ -10,3 +10,5 @@ git commit -m"Commit message" - save на промените с съобщени
 git push  -  качваме промените в мастър бранча
 
 git checkout -b"firstbranch" - думата checkout означава премести се на, в случая означава създай нов бранч и отиди на него като той се казва името в скобит
+
+file for conflict
