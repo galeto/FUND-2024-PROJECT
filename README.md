@@ -14,7 +14,24 @@ git checkout -b"firstbranch" - думата checkout означава преме
 
 git checkout main  - отиваме на main branch
 
+
+Процедура за качване от локалния бранч към мастъра
+
 git checkout firstbranch - отиваме на локално създадения бранч
+
+git add . - добавяме промените на staged
+
+git commit -m"commit message" - запазваме промените
+
+git push - качваме промените в мастъра
+
+git push --set-- upstream firstbranch
+
+go to Git hub and create pull request
+
+merge pull request
+
+confirm pull request
 
 
 
