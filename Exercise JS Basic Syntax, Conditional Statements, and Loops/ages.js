@@ -9,6 +9,7 @@
 // The output should be printed to the console.
 
 
+
 function ages(age) {
     if (age >= 0 && age <= 2) {
         console.log('baby');
