@@ -2,6 +2,7 @@ function firstDemo() {
     let name = 'Ivan';
     let number = 5.34;
     let currency = 'BGN';
+    
 
     console.log(typeof name);
     console.log(`Your name is: ${name + ':)'}`);
